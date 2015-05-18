@@ -7,7 +7,7 @@ set -o nounset
 # Set default configuration parameters
 
 DEFAULT_DEPLOY_PATH=/opt/scalr/webapp
-DEFAULT_APP_REPO=https://github.com/scalr-tutorials/3-tier-app.git
+DEFAULT_APP_REPO=https://github.com/hijaz3/3-tier-app.git
 DEFAULT_APP_BRANCH=master
 DEFAULT_PORT=8000
 
